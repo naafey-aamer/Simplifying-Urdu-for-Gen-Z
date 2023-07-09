@@ -5,8 +5,11 @@ A neural machine translation task executed with a seq2seq bidirectional LSTM Enc
 We used bucketing in our work for more specialized, better performing models.
 
 NLP_Data.ipynb is data processing and manipulation.
+
 NLP_Bucket_1.ipynb is the model,predictions, and results for sentences of lengths 0 to 10.
+
 NLP_Bucket_2.ipynb is the model,predictions, and results for sentences of lengths 10 to 20.
+
 NLP_Bucket_3.ipynb is the model,predictions, and results for sentences of lengths 20 to 30.
 
 Reference paper and dataset owners:
