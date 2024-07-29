@@ -1,5 +1,5 @@
 # Urdu_to_Roman_Urdu_Transliterator
-I worked on this project with my colleague Naafey Aamer. This was a course project for a graduate level course on Natural Language Processing at LUMS, Pakistan.
+I worked on this project with my colleague Sumair Ijaz Hashmi. This was a course project for a graduate level course on Natural Language Processing at LUMS, Pakistan.
 
 A neural machine translation task executed with a seq2seq bidirectional LSTM Encoder-Decoder Model with Attention implemented in Keras. Using greedy search for sentence prediction resulted in a BLEU score of 74 and a ROGUE score of 0.90 for medium length sentences 
 (10 words < sentence length <=20 words). 
